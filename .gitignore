@@ -1,0 +1,30 @@
+# Videos files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+
+# Images files
+*.jpg
+*.png
+*.jpeg
+*.gif
+*.svg
+
+# Folders
+/images
+/dataset
+/labeled
+/labels
+/mlruns
+/runs
+
+# Train
+/YOLOv11n_OBB_Training
+
+# Persist
+annotator_config.json
+
+# Models
+/models
